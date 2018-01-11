@@ -10,7 +10,7 @@ page 50103 Addresses
     SourceTableTemporary = True;
     InsertAllowed = True;
     DeleteAllowed = True;
-    ModifyAllowed = False;
+    ModifyAllowed = True;
     ShowFilter = False;
     LinksAllowed = False;
 
