@@ -8,8 +8,8 @@ page 50103 Addresses
     PageType = List;
     SourceTable = Address;
     SourceTableTemporary = True;
-    InsertAllowed = False;
-    DeleteAllowed = False;
+    InsertAllowed = True;
+    DeleteAllowed = True;
     ModifyAllowed = False;
     ShowFilter = False;
     LinksAllowed = False;
